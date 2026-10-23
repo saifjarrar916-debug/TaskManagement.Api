@@ -1,0 +1,22 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+
+# Logs
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Local databases
+*.mdf
+*.ldf
